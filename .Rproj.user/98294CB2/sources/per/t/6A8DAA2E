@@ -1,0 +1,25 @@
+{
+    "id": "6A8DAA2E",
+    "path": "~/Desktop/phd/pkgs/myUtils/R/utils.R",
+    "project_path": "R/utils.R",
+    "type": "r_source",
+    "hash": "3382151488",
+    "contents": "",
+    "dirty": false,
+    "created": 1621517469185.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "39,1",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622462622,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622462622003,
+    "read_only": false,
+    "read_only_alternatives": []
+}
