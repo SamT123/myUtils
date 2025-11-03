@@ -1,4 +1,18 @@
 #' @export
+initialize_named = function(names, value = NA) {
+  if (is.list(value)) {
+    value_packed = list(value)
+  } else {
+    value_packed = value
+  }
+
+  setNames(
+    rep(value_packed, length(names)),
+    names
+  )
+}
+
+#' @export
 catn <- function(...) {
   cat(..., '\n')
 }
